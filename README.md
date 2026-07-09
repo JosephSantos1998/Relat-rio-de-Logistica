@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 🔎 Visão Geral do Projeto
 
-O objetivo do relatório é oferecer uma análise clara e visual sobre análise de Custos e veículos mais detalalhado possível.
+O objetivo do relatório é oferecer uma análise clara e visual sobre análise de Custos e veículos mais detalhado possível.
 
 _____________________________________________________________________________________
 
